@@ -1,4 +1,4 @@
-html
+php
 <!DOCTYPE html>
 <html>
 <body>
@@ -21,3 +21,7 @@ int main() {
     std::cout << "Hello World!";
     return 0;
 }
+
+JavaScript
+// the hello world program
+console.log('Hello World');
